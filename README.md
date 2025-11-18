@@ -15,7 +15,7 @@ matches.csv contains details related to the match such as location, contesting t
 deliveries.csv is the ball-by-ball data of all the IPL matches including data of the batting team, batsman, bowler, non-striker, runs scored, etc.
 
 ## Acknowledgements
-Source:[[ http://cricsheet.org/](https://www.kaggle.com)](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020) (data is available on this website in the CSV format.)
+Source:[[https://www.kaggle.com]](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020) (data is available on this website in the CSV format.)
 
 
 
